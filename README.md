@@ -1,17 +1,17 @@
 ### Olá! eu sou o Jackson Almeida 👋
 
 - 🔭 Atualmente sou tec. de desenvolvimento de sooftwere na FITec.
-- 🌱 👨‍💻Conhecimentos em: 
-✔Java avançado com o foco em desenvolvimento de API REST e microsserviços ;
-✔Experiência em projetos Java utilizando o framework Spring;
-✔SQL Intermediário usando o Banco de dados Oracle, Postgres, Mysql, H2 DataBase;
-✔Conhecimentos básicos com banco de dados não relacionais utilizando o bando de dados MongoDB;
-✔Conhecimento básico Kubernetes, Docker;
-✔Testes unitários com JUnit;
-✔Controle de versão no GIT/GitHub;
-✔Modelagem de Banco de Dados;
-✔Conhecimentos básicos em HTML, CSS, JavaScript e no framework Resct JS; 
-✔Metodologias ágeis (SCRUM).
+- 🌱 👨‍💻Conhecimentos em: </br>
+✔Java avançado com o foco em desenvolvimento de API REST e microsserviços ; </br>
+✔Experiência em projetos Java utilizando o framework Spring; </br>
+✔SQL Intermediário usando o Banco de dados Oracle, Postgres, Mysql, H2 DataBase; </br>
+✔Conhecimentos básicos com banco de dados não relacionais utilizando o bando de dados MongoDB; </br>
+✔Conhecimento básico Kubernetes, Docker; </br>
+✔Testes unitários com JUnit; </br>
+✔Controle de versão no GIT/GitHub; </br>
+✔Modelagem de Banco de Dados; </br>
+✔Conhecimentos básicos em HTML, CSS, JavaScript e no framework Resct JS; </br>
+✔Metodologias ágeis (SCRUM). </br>
 - 📫 Entre em contato: (92) 99183-5804 / jacksonnalmeida30@gmail.com
 <hr>
 
