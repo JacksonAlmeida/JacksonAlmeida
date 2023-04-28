@@ -1,8 +1,18 @@
 ### Olá! eu sou o Jackson Almeida 👋
 
-- 🔭 Hoje atualmente trabalho dando suporte para usuários que usam o sistema de gestão hospitalar Tasy.
-- 🌱 Estou estudando a linguagem de programação java e conceitos/prática de banco de dados realacionais usando o SGBDs MySQL, PostgreSQL e H2.
-- 📫 Entre em contato: (92) 99415-1451 / jacksonnalmeida30@gmail.com
+- 🔭 Atualmente sou tec. de desenvolvimento de sooftwere na FITec.
+- 🌱 👨‍💻Conhecimentos em: 
+✔Java avançado com o foco em desenvolvimento de API REST e microsserviços ;
+✔Experiência em projetos Java utilizando o framework Spring;
+✔SQL Intermediário usando o Banco de dados Oracle, Postgres, Mysql, H2 DataBase;
+✔Conhecimentos básicos com banco de dados não relacionais utilizando o bando de dados MongoDB;
+✔Conhecimento básico Kubernetes, Docker;
+✔Testes unitários com JUnit;
+✔Controle de versão no GIT/GitHub;
+✔Modelagem de Banco de Dados;
+✔Conhecimentos básicos em HTML, CSS, JavaScript e no framework Resct JS; 
+✔Metodologias ágeis (SCRUM).
+- 📫 Entre em contato: (92) 99183-5804 / jacksonnalmeida30@gmail.com
 <hr>
 
 <h3>Tecnologias</h3>
