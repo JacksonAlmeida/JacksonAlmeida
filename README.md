@@ -1,11 +1,11 @@
 ### Olá! eu sou o Jackson Almeida 👋
 
-- 🔭 Atualmente sou tec. de desenvolvimento de sooftwere na FITec.
+- 🔭 Sou desenvolvedor backend, tenho experiência em desenvolvimento cloud com java.
 - 🌱 👨‍💻Conhecimentos em: </br>
 ✔Java avançado com o foco em desenvolvimento de API REST e microsserviços ; </br>
 ✔Experiência em projetos Java utilizando o framework Spring; </br>
 ✔SQL Intermediário usando o Banco de dados Oracle, Postgres, Mysql, H2 DataBase; </br>
-✔Conhecimentos básicos com banco de dados não relacionais utilizando o bando de dados MongoDB; </br>
+✔Experiência com banco de dados não relacionais utilizando o bando de dados MongoDB; </br>
 ✔Conhecimento básico Kubernetes, Docker; </br>
 ✔Testes unitários com JUnit; </br>
 ✔Controle de versão no GIT/GitHub; </br>
