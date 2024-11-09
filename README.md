@@ -21,11 +21,16 @@ Proficiência em metodologias ágeis, especialmente SCRUM.<br>
 <hr>
 
 <h3>Tecnologias</h3>
+
 <div>
+  <h4> Linguagens de programação <h4>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+</div>
+<div>
+  <h4>Banco de dados</h4>
   <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-  <img heigth="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 </div>
 
 <hr>
